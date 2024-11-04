@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ajotoosi.github.io/Gmd/sitemap_index.txt
+Sitemap: https://ajotoosi.github.io/MWk/sitemap_index.txt
+Sitemap: https://ajotoosi.github.io/Oag/sitemap_index.txt
+Sitemap: https://ajotoosi.github.io/Srb/sitemap_index.txt
